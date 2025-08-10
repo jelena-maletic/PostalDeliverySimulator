@@ -30,8 +30,8 @@ This project is a simulation of a postal delivery service operating within a cit
 
 Below are screenshots showcasing the simulation in action:
 
-![Simulation screenshot 1](screenshots/simulation-screenshot1.png)
-![Simulation screenshot 2](screenshots/simulation-screenshot2.png)
+![Simulation screenshot 1](screenshots/simulation-screenshot1.PNG)
+![Simulation screenshot 2](screenshots/simulation-screenshot2.PNG)
 
 ### How to Use the Program
 
